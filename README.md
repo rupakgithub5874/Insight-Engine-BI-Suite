@@ -21,3 +21,5 @@ Tracks monthly trends in revenue, orders, and returns, and compares them with th
 
 6. Product Performance Table:
 Presents a detailed table listing product-wise total orders, total revenue, and return rate. This helps identify
+
+![Screenshot 2025-04-22 115741](https://github.com/user-attachments/assets/b05b4da8-8fa8-4c93-8235-0efce18ced2e)
