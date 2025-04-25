@@ -36,18 +36,15 @@ A dedicated visual panel highlights the product selected by the user.It is place
 
 KPI Cards (Key Performance Indicators):
 
-1. There are three circular gauge-style visuals positioned side by side.
+There are three circular gauge-style visuals positioned side by side.
 
-Total Orders: Represents the number of orders placed for the selected product.
+  Total Orders: Represents the number of orders placed for the selected product.
 
-Total Revenue: Reflects the total monetary earnings generated.
+  Total Revenue: Reflects the total monetary earnings generated.
 
-Total Profit: Indicates how much net profit was gained.
+  Total Profit: Indicates how much net profit was gained.
 
 Each card includes a colored semi-donut gauge, giving a visual indication of performance levels.
-
-Simple, readable formats help users understand these KPIs at a glance.
-
 
 #### Monthly Profit Chart (Middle Row):
 This section includes a line graph representing profit performance across all 12 months. The X-axis displays months from January to December. The Y-axis is labeled for total profit, helping track fluctuations or consistency in earnings over time. This chart visually conveys which months had higher or lower profit margins, making it easy to identify performance trends and outliers.
