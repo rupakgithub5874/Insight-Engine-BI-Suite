@@ -53,3 +53,10 @@ This section includes a line graph representing profit performance across all 12
 Below the profit chart, there is a second line chart focused on monthly returns. It uses the same horizontal layout for months and plots return quantities on the vertical axis. This section allows stakeholders to monitor product returns, spot unusual spikes, and assess consistency in return trends throughout the year.
 
 It supports better return management and quality analysis.
+
+
+
+![Screenshot 2025-04-22 115753](https://github.com/user-attachments/assets/47c48143-6b62-4f4e-9026-a4f05bbffe00)
+
+### Total Orders by Country – Detailed Dashboard Content Description
+This section of the dashboard presents a geographic view of order distribution across various countries using a world map visualization. It allows users to easily compare total order volumes by location.
