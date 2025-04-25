@@ -34,7 +34,7 @@ Selected Product Display:
 
 A dedicated visual panel highlights the product selected by the user.It is placed in the upper-left corner with clear emphasis using a colored background.This helps viewers know which product's data is being analyzed.
 
-KPI Cards (Key Performance Indicators):
+#### KPI Cards (Key Performance Indicators):
 
 There are three circular gauge-style visuals positioned side by side.
 
