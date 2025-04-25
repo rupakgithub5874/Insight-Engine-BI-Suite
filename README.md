@@ -75,3 +75,5 @@ At the top of the dashboard, there are four horizontally aligned buttons for reg
 The central part of the dashboard features a dark-themed world map.
 
 Countries with recorded orders are marked by blue circular bubbles. The size of each bubble represents the total number of orders — larger bubbles indicate higher volume. The bubbles are positioned accurately on the respective countries, making it easy to identify their order distribution.
+
+![Screenshot 2025-04-22 115803](https://github.com/user-attachments/assets/59e7e56b-53d2-4daa-8c4b-7ba6d313654c)
