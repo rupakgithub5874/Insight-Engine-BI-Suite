@@ -1,4 +1,4 @@
-# Insight Engine: Executive, Product & Customer Dashboards
+# Insight Engine: Executive, Product, Map & Customer Dashboards
 ### Dashboard 1: Executive Overview – AdventureWorks  
 
 The Executive Overview Dashboard provides a top-level summary of the company’s performance, enabling quick insights into revenue, profitability, and customer activity. It is designed for leadership and decision-makers to track performance trends and take timely actions.
