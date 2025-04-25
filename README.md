@@ -68,3 +68,10 @@ At the top of the dashboard, there are four horizontally aligned buttons for reg
 2. Europe
 3. North America
 4. Pacific
+
+
+#### Main Visual: World Map with Order Data
+
+The central part of the dashboard features a dark-themed world map.
+
+Countries with recorded orders are marked by blue circular bubbles. The size of each bubble represents the total number of orders — larger bubbles indicate higher volume. The bubbles are positioned accurately on the respective countries, making it easy to identify their order distribution.
