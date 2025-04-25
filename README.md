@@ -60,3 +60,11 @@ It supports better return management and quality analysis.
 
 ### Map – Dashboard
 This section of the dashboard presents a geographic view of order distribution across various countries using a world map visualization. It allows users to easily compare total order volumes by location.
+
+
+Top-Level Region Selection Panel:
+At the top of the dashboard, there are four horizontally aligned buttons for regional filtering:
+1. Select all
+2. Europe
+3. North America
+4. Pacific
