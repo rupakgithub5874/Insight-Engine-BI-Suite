@@ -58,5 +58,5 @@ It supports better return management and quality analysis.
 
 ![Screenshot 2025-04-22 115753](https://github.com/user-attachments/assets/47c48143-6b62-4f4e-9026-a4f05bbffe00)
 
-### Total Orders by Country – Detailed Dashboard Content Description
+### Map – Dashboard
 This section of the dashboard presents a geographic view of order distribution across various countries using a world map visualization. It allows users to easily compare total order volumes by location.
